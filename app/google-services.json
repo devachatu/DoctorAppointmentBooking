@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127556697353",
+    "firebase_url": "https://enterprise-accounting-system.firebaseio.com",
+    "project_id": "enterprise-accounting-system",
+    "storage_bucket": "enterprise-accounting-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127556697353:android:76fdd3eb222f9cdbec27d8",
+        "android_client_info": {
+          "package_name": "com.example.enterpriseaccountingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127556697353-d8098dg3mrerho49kjd13ojglg21lbhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enterpriseaccountingsystem",
+            "certificate_hash": "114b8865f9173240f11dc402afe6ac4c1649776d"
+          }
+        },
+        {
+          "client_id": "127556697353-4ebbcdq2fra0h6rpfmddmloh28tovlup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiASQdhpuCibH1W-yoiqiMO2JAFUMq9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127556697353-4ebbcdq2fra0h6rpfmddmloh28tovlup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

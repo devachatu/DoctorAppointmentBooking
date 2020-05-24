@@ -1,0 +1,2 @@
+rootProject.name='Enterprise Accounting System'
+include ':app'
